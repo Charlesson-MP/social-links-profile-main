@@ -27,7 +27,7 @@
 
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 23.4375rem) {
     body {
         background-color: var(--gray8);
         height: 100vh;
