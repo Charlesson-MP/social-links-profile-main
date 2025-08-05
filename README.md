@@ -16,16 +16,17 @@ Este projeto é uma página de perfil que exibe **links sociais**, permitindo qu
 ✔ Uso de variáveis CSS para facilitar a customização  
 
 ## 📄 Estrutura de Pasta
-📂 social-links-profile-main <br>
- ├── 📂 src <br>
- │   ├── 📂 css <br>
- │   │   ├── style.css <br>
- │   │   ├── responsive.css <br>
- │   ├── 📂 images <br>
- │   ├── 📂 fonts <br>
- │   ├── index.html <br>
+```
+📂 social-links-profile-main
+ ├── 📂 src
+ │   ├── 📂 css
+ │   │   ├── style.css
+ │   │   ├── responsive.css
+ │   ├── 📂 images
+ │   ├── 📂 fonts
+ │   ├── index.html
  ├── README.md
-
+```
 
 ## 🔧 Como Executar Localmente
 1. Clone o repositório:
