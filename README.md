@@ -10,7 +10,7 @@ The project presents a simple and responsive interface containing personal infor
 
 The interface features a dark-themed profile card with a circular profile picture, personal information, and interactive social links highlighted with an accent color.
 
-![Page preview image](./src/image/preview-imamge.png)
+![Social Links Profile preview](./src/images/preview-image.png)
 
 ## ✨ Features
 
